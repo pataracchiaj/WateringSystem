@@ -7,7 +7,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <DHTesp.h>;
-#include <connection_info.h>
+#include <C:\Users\CSE\Documents\Arduino\libraries\connection_info\connection_info.h>
 const int TH_Sensor_Pin = 5;      // Define pin number to which the sensor is connected
 DHTesp DHT;                       // Create a DHT object
 BlynkTimer timer;
